@@ -10,4 +10,4 @@ It contains:
 * Program "app.py" with the Flask framework
 * Folder named "templates" that includes html files for the blog - "homework.html", "About.html", "Works.html", and "base.html"
 * Folder named "static" that includes folder named "css" with "my.css" program in it and the pictures
-* Other important folders and files for this homework
+* Other important folders and files for this program to run within homework
